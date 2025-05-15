@@ -12,4 +12,5 @@ Welcome to my personal knowledge repository focused on theoretical understanding
 This repository serves as a living document — I’ll keep updating it as my understanding evolves. Feel free to explore, learn, and contribute!
 
 🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/akshansh-sharma-a47778278/)
+[[Email]](98akshansh@gamil.com)
 
